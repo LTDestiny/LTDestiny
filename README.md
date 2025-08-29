@@ -14,13 +14,6 @@
 
 ---
 
-## 📂 Projects  
-- 🔗 [To-Do List App](https://github.com/your-username/todo-list) – Fullstack app with Next.js + PostgreSQL  
-- 🔗 [ChatBox MERN](https://github.com/your-username/chatbox) – Real-time chat app with Socket.io  
-- 🔗 [Instagram Clone](https://github.com/your-username/instagram-clone) – Social media app with posting, comments, likes  
-
----
-
 ## 🌱 Currently Learning  
 - Microservices architecture  
 - Cloud deployment (AWS, Vercel, Render)  
@@ -28,8 +21,7 @@
 ---
 
 ## 📫 Contact Me  
-- Email: [your.email@example.com]  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- Email: [lethiendinh123@gmail.com]  
 - GitHub: [github.com/LTDestiny](https://github.com/LTDestiny)  
 
 
