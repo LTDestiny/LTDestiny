@@ -153,21 +153,4 @@ Status: Completed ✅
 ### 💭 Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-### 🎵 Currently Vibing To
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n7joekdlnp4c3jwiqkmr7toeui&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
----
-
-### 📈 Contribution Graph
-
-[![Destiny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LTDestiny&theme=react-dark&hide_border=true&area=true)](https://github.com/LTDestiny)
-
----
-
-**💼 Open for collaborations and opportunities!**
-
-*"Building the future, one commit at a time"* ✨
-
 </div>
