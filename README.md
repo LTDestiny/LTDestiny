@@ -1,45 +1,173 @@
-# 💫About Me :
-# Hi, I'm Destiny 👋  
+<div align="center">
 
-🎓 Final-year Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)**  
-💻 Passionate about **Fullstack Development** and **Software Engineering**  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Le%20Thien%20Dinh&fontSize=80&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Software%20Engineer&descAlignY=51&descAlign=50&animation=twinkling)
 
----
+### `Software Engineering Student @ IUH` | `Passionate Developer` | `Tech Enthusiast`
 
-## 🛠 Skills  
-- **Frontend:** React, Next.js, TypeScript, TailwindCSS, Redux Toolkit  
-- **Backend:** Node.js, Express.js, Java Spring Boot  
-- **Database:** MongoDB, PostgreSQL, MySQL  
-- **Other:** Git/GitHub, REST API, Socket.io, Docker (basic)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/TDISSB)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_thindinh_)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/thinn_dinn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lethiendinh123@gmail.com)
 
----
+![Profile Views](https://visitcount.itsvg.in/api?id=LTDestiny&icon=6&color=6)
 
-## 🌱 Currently Learning  
-- Microservices architecture  
-- Cloud deployment (AWS, Vercel, Render)  
+</div>
 
 ---
 
-## 📫 Contact Me  
-- Email: [lethiendinh123@gmail.com]  
-- GitHub: [github.com/LTDestiny](https://github.com/LTDestiny)  
+## 🎯 About Me
 
+```typescript
+const destiny = {
+    education: "Software Engineering @ IUH",
+    role: "Fullstack Developer",
+    location: "Ho Chi Minh City, Vietnam",
+    currentFocus: ["Microservices", "Cloud Architecture", "System Design"],
+    lifePhilosophy: "Code with passion, build with purpose 🚀"
+};
+```
 
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/thinn_dinn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/TDISSBhttps://www.facebook.com/TDISSB) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_thindinh_?fbclid=IwY2xjawMd_wVleHRuA2FlbQIxMABicmlkETFkd2h4dEEzRDJoS3NqZ0Z4AR4zSPcy3f5gXvZhOEOkFC14r9NNX_MEyNjf87a1OJvmpvUR54AzNHqeuuG6sg_aem_q6llFuXJ4HxeAMEYpiBwCA) 
+<div align="center">
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) 	![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=LTDestiny&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LTDestiny&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LTDestiny&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 💼 Featured Projects
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=LTDestiny&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🎌 Japanese Learning Platform
+> **Trang web học tiếng Nhật tương tác với gamification**
+
+```yaml
+Tech Stack: React • Node.js • MongoDB • Socket.io • Express
+Features:
+  - 📚 Học từ vựng, Kanji, và ngữ pháp với hệ thống bài học có cấu trúc
+  - 🎮 Gamification: Điểm số, huy hiệu, và bảng xếp hạng
+  - 💬 Real-time chat để luyện tập với người học khác
+  - 📊 Theo dõi tiến độ học tập chi tiết
+  - 🔊 Phát âm và luyện nghe tích hợp
+Status: In Development 🚧
+```
+[🔗 View Repository](https://github.com/LTDestiny) | [🌐 Live Demo](#)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LTDestiny&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🏆 Hackathon Projects
+> **Các dự án xuất sắc tại các kỳ Hackathon**
+
+```yaml
+Project 1: [Tên dự án Hackathon]
+  Achievement: 🥇 First Place / 🥈 Second Place
+  Tech Stack: Next.js • TypeScript • PostgreSQL • Docker
+  Description: [Mô tả ngắn về dự án và giải pháp]
+  Impact: [Tác động/kết quả đạt được]
+
+Project 2: [Tên dự án Hackathon khác]
+  Achievement: 🏅 Best Innovation Award
+  Tech Stack: React Native • Firebase • Node.js
+  Description: [Mô tả ngắn]
+```
+[🔗 View Projects](https://github.com/LTDestiny)
+
+---
+
+### 🛍️ E-Commerce Platform
+> **Full-stack online shopping system với quản lý nâng cao**
+
+```yaml
+Tech Stack: Next.js • NestJS • PostgreSQL • Redis • AWS S3
+Features:
+  - 💳 Tích hợp cổng thanh toán (VNPay, MoMo)
+  - 📦 Quản lý đơn hàng và kho hàng real-time
+  - 👨‍💼 Admin dashboard với analytics
+  - 🔔 Hệ thống thông báo đẩy
+  - 🔐 Authentication & Authorization với JWT
+Status: Completed ✅
+```
+[🔗 View Repository](https://github.com/LTDestiny) | [🌐 Live Demo](#)
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LTDestiny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTDestiny&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LTDestiny&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LTDestiny&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=LTDestiny&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🎵 Currently Vibing To
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n7joekdlnp4c3jwiqkmr7toeui&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+### 📈 Contribution Graph
+
+[![Destiny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LTDestiny&theme=react-dark&hide_border=true&area=true)](https://github.com/LTDestiny)
+
+---
+
+**💼 Open for collaborations and opportunities!**
+
+*"Building the future, one commit at a time"* ✨
+
+</div>
