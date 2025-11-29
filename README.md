@@ -27,67 +27,6 @@ const destiny = {
 };
 ```
 
-<div align="center">
-
-## 💼 Featured Projects
-
-</div>
-
-### 🎌 Japanese Learning Platform
-> **Trang web học tiếng Nhật tương tác với gamification**
-
-```yaml
-Tech Stack: React • Node.js • MongoDB • Socket.io • Express
-Features:
-  - 📚 Học từ vựng, Kanji, và ngữ pháp với hệ thống bài học có cấu trúc
-  - 🎮 Gamification: Điểm số, huy hiệu, và bảng xếp hạng
-  - 💬 Real-time chat để luyện tập với người học khác
-  - 📊 Theo dõi tiến độ học tập chi tiết
-  - 🔊 Phát âm và luyện nghe tích hợp
-Status: In Development 🚧
-```
-[🔗 View Repository](https://github.com/LTDestiny) | [🌐 Live Demo](#)
-
----
-
-### 🏆 Hackathon Projects
-> **Các dự án xuất sắc tại các kỳ Hackathon**
-
-```yaml
-Project 1: [Tên dự án Hackathon]
-  Achievement: 🥇 First Place / 🥈 Second Place
-  Tech Stack: Next.js • TypeScript • PostgreSQL • Docker
-  Description: [Mô tả ngắn về dự án và giải pháp]
-  Impact: [Tác động/kết quả đạt được]
-
-Project 2: [Tên dự án Hackathon khác]
-  Achievement: 🏅 Best Innovation Award
-  Tech Stack: React Native • Firebase • Node.js
-  Description: [Mô tả ngắn]
-```
-[🔗 View Projects](https://github.com/LTDestiny)
-
----
-
-### 🛍️ E-Commerce Platform
-> **Full-stack online shopping system với quản lý nâng cao**
-
-```yaml
-Tech Stack: Next.js • NestJS • PostgreSQL • Redis • AWS S3
-Features:
-  - 💳 Tích hợp cổng thanh toán (VNPay, MoMo)
-  - 📦 Quản lý đơn hàng và kho hàng real-time
-  - 👨‍💼 Admin dashboard với analytics
-  - 🔔 Hệ thống thông báo đẩy
-  - 🔐 Authentication & Authorization với JWT
-Status: Completed ✅
-```
-[🔗 View Repository](https://github.com/LTDestiny) | [🌐 Live Demo](#)
-
----
-
-<div align="center">
-
 ## 🛠️ Tech Arsenal
 
 ### Frontend Development
